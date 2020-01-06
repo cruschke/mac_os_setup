@@ -1,0 +1,15 @@
+brew "mas"
+
+cask_args appdir: "/Applications"
+
+cask "docker"
+cask "firefox"
+cask "google-chrome"
+cask "iterm2"
+cask "skitch"
+cask "visual-studio-code"
+cask "wireshark"
+
+mas "CleanMyDrive 2"
+mas "SimpleMind Lite"
+mas "Slack"

@@ -1,1 +1,6 @@
-# mac_os_setup
+# Usage
+
+```bash
+$ brew bundle install --file=Brewfile.Desktop
+```
+

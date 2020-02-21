@@ -1,0 +1,5 @@
+brew "terraform_landscape"
+brew "terraform-docs"
+brew "tflint"
+brew "tfswitch"
+brew "tgswitch"

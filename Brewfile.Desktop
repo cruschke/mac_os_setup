@@ -2,7 +2,6 @@ brew "mas"
 
 cask_args appdir: "/Applications"
 
-cask "docker"
 cask "firefox"
 cask "google-chrome"
 cask "iterm2"

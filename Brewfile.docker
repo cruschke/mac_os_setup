@@ -1,0 +1,7 @@
+cask_args appdir: "/Applications"
+cask "docker"
+tap "wagoodman/dive"
+brew "dive"
+brew "hadolint"
+tap "aquasecurity/trivy"
+brew "trivy"

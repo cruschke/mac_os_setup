@@ -1,0 +1,4 @@
+brew "aws-iam-authenticator"
+brew "aws-shell"
+brew "awscli"
+brew "cli53"

@@ -1,7 +1,13 @@
 # Collection of useful MacOS applications
 
+## Prerequisite
 
-To automatically install Desktop apps (using either  `brew cask` or `mas` if they are available from MacOS App Store) run
+* `$ xcode-select --install` to be prepared for Homebrew installation
+* install [Homebrew](https://brew.sh/) first
+
+## install all the apps
+
+To automatically install Desktop apps (using either  `brew cask` or `mas` if they are available from MacOS App Store) run.
 
 ```bash
 $ brew bundle install --file=Brewfile.Desktop

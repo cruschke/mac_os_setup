@@ -7,3 +7,5 @@ cask "skitch"
 cask "slack"
 cask "visual-studio-code"
 cask "keepassxc"
+
+mas "446243721" # Disk Space Analyzer: Inspector

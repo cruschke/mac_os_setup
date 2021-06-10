@@ -2,6 +2,7 @@ brew "mas"
 
 cask_args appdir: "/Applications"
 
+casl "amazon-chime"
 cask "iterm2"
 cask "skitch"
 cask "slack"

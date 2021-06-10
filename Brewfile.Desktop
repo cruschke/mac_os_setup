@@ -8,5 +8,6 @@ cask "skitch"
 cask "slack"
 cask "visual-studio-code"
 cask "keepassxc"
+cask "zoom"
 
 mas "446243721" # Disk Space Analyzer: Inspector
